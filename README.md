@@ -1,1 +1,1 @@
-# NVIDIA-Job-Posting-Analysis
+Analyzed hiring trends, job roles, and skill gaps at NVIDIA to uncover what the company values in early-career talent. The study provided actionable insights for students aiming to break into AI and software roles to boost employability.
